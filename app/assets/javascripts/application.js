@@ -12,8 +12,11 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require jquery-ui
 //= require foundation
-//= require turbolinks
+//= require jquery.backstretch
+//= require 'jquery.fullpage'
 //= require_tree .
 
-$(function(){ $(document).foundation(); });
+
+
